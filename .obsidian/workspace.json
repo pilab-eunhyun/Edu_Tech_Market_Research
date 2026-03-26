@@ -60,7 +60,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: ✳ Research Korean certification exam market sizes"
+              "title": "Terminal: ⠂ Claude Code"
             }
           },
           {
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -311,7 +311,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "31d2be97a55bc186",
+  "active": "3f28d790724c9780",
   "lastOpenFiles": [
     "최종_제안서.md",
     "자격증_시험구조_및_교재_분석.md",
