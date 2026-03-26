@@ -1,21 +1,35 @@
 {
   "main": {
-    "id": "61916c49cbb14988",
+    "id": "be062f9ca15cb8bf",
     "type": "split",
     "children": [
       {
-        "id": "48d6d64b1603845f",
+        "id": "cb1c3ef84e7614fc",
         "type": "tabs",
         "children": [
           {
-            "id": "ec81d669a80ca916",
+            "id": "7f2dc3bae50ab864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자격증_시장_리서치.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자격증_시장_리서치"
+            }
+          },
+          {
+            "id": "3f28d790724c9780",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "terminal:terminal",
               "state": {
                 "terminal:terminal": {
-                  "cwd": "/Users/justin/projects/justin's/edu_tech_research",
+                  "cwd": "/Users/hyunee/Projects/Edu_Tech_Market_Research",
                   "focus": false,
                   "profile": {
                     "args": [
@@ -46,80 +60,53 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: zsh"
+              "title": "Terminal: ⠂ Research Korean certification exam market sizes"
             }
           },
           {
-            "id": "ff8cada6f13d8a44",
+            "id": "c10c08154b0f6389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "에듀테크_앱_전략_논의.md",
+                "file": "자격증_공부방법_및_기업매출.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "에듀테크_앱_전략_논의"
+              "title": "자격증_공부방법_및_기업매출"
             }
           },
           {
-            "id": "9d6bdc0a9a88b92b",
+            "id": "19d4696096645eaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자격증_시험구조_및_교재_분석.md",
+                "file": "자격증_시장_리서치.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자격증_시험구조_및_교재_분석"
-            }
-          },
-          {
-            "id": "4d6876522f3dc882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "수험생_페인포인트_리서치.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "수험생_페인포인트_리서치"
-            }
-          },
-          {
-            "id": "8345a2a587cf625f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "최종_제안서.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "최종_제안서"
+              "title": "자격증_시장_리서치"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "781153a2757945ad",
+    "id": "3774c8e31d4b6296",
     "type": "split",
     "children": [
       {
-        "id": "ec91461522065a7e",
+        "id": "1346ed42d6aa0850",
         "type": "tabs",
         "children": [
           {
-            "id": "8990e87bd59c2206",
+            "id": "ef57beee973158dd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -132,7 +119,7 @@
             }
           },
           {
-            "id": "78cda8d288c1c65c",
+            "id": "d2442734fefc0a1e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -149,7 +136,7 @@
             }
           },
           {
-            "id": "5a9e0f1ae3fcaa13",
+            "id": "6f03f2a89c91f043",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -162,18 +149,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "e59a3115f77bcbc9",
+    "id": "a23e18894f25c339",
     "type": "split",
     "children": [
       {
-        "id": "6788b564b7b4e61c",
+        "id": "7d6d7bb55506e65f",
         "type": "tabs",
         "children": [
           {
-            "id": "08027aca122ec740",
+            "id": "41619de6fd3c2cb2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -191,7 +178,7 @@
             }
           },
           {
-            "id": "2a794f01346d5991",
+            "id": "a59a65321d5fcd4b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -204,7 +191,7 @@
             }
           },
           {
-            "id": "ecdf8c3c0dc37510",
+            "id": "0609dfcacf23896b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -219,7 +206,7 @@
             }
           },
           {
-            "id": "da8b6deb5ef77524",
+            "id": "f3becdc6c7b7cec3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -233,7 +220,7 @@
             }
           },
           {
-            "id": "21b12f25f6c07942",
+            "id": "74d04bce6afc5733",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -265,15 +252,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ec81d669a80ca916",
+  "active": "3f28d790724c9780",
   "lastOpenFiles": [
     "최종_제안서.md",
-    "에듀테크_앱_전략_논의.md",
+    "자격증_시험구조_및_교재_분석.md",
     "수험생_페인포인트_리서치.md",
     "사업_최종_정리.md",
-    "자격증_시험구조_및_교재_분석.md",
-    "자격증_시장_리서치.md",
+    "에듀테크_앱_전략_논의.md",
     "자격증_공부방법_및_기업매출.md",
+    "자격증_시장_리서치.md",
     "Screenshot 2026-03-25 at 6.32.34 PM.png"
   ]
 }
