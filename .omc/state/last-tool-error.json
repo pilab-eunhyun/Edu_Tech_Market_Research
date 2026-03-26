@@ -1,7 +1,7 @@
 {
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"git pull origin main 2>&1\",\"description\":\"Pull from remote\"}",
-  "error": "Exit code 1\nFrom github.com:pilab-eunhyun/Edu_Tech_Market_Research\n * branch            main       -> FETCH_HEAD\n   d27ee75..19bc20d  main       -> origin/main\nerror: Your local changes to the following files would be overwritten by merge:\n\t.obsidian/workspace.json\nPlease commit your changes or stash them before you merge.\nAborting\nUpdating d27ee75..19bc20d",
-  "timestamp": "2026-03-26T01:16:21.657Z",
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"/Users/hyunee/Projects/Edu_Tech_Market_Research/자격증_시험구조_및_교재_분석.md\"}",
+  "error": "File content (12884 tokens) exceeds maximum allowed tokens (10000). Use offset and limit parameters to read specific portions of the file, or search for specific content instead of reading the whole file.",
+  "timestamp": "2026-03-26T01:18:05.050Z",
   "retry_count": 1
 }
