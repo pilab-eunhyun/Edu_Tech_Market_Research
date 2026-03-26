@@ -1,7 +1,7 @@
 {
-  "tool_name": "Read",
-  "tool_input_preview": "{\"file_path\":\"/Users/hyunee/Projects/Edu_Tech_Market_Research/자격증_시험구조_및_교재_분석.md\"}",
-  "error": "File content (12884 tokens) exceeds maximum allowed tokens (10000). Use offset and limit parameters to read specific portions of the file, or search for specific content instead of reading the whole file.",
-  "timestamp": "2026-03-26T01:18:05.050Z",
+  "tool_name": "WebFetch",
+  "tool_input_preview": "{\"url\":\"https://namu.wiki/w/TOPIK\",\"prompt\":\"TOPIK 국가별 응시자 수 통계를 찾아줘. 우즈베키스탄 응시자 수가 있으면 알려줘. 연도별 전체 응시자 수 추이, 국가별 순위 등 모든 숫자 데이터를 추출해줘.\"}",
+  "error": "Request failed with status code 403",
+  "timestamp": "2026-03-26T01:24:38.209Z",
   "retry_count": 1
 }
